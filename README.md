@@ -1,4 +1,4 @@
-# March Madness Simulation Model
+# March Madness Predictor
 
 ## Overview
 
